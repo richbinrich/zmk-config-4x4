@@ -20,3 +20,5 @@ Picked a lily58 at random and tried to flash the firmware.
 #Step 3. Install ZMK and Create Repo.
 OMG Im going nuts.... After about 4 or 5 days of not understanding zmk I did manage to create this repo and it actually compiled to produce an output.
 - First build flashed, no good.
+- Tried changing a board to nice_nano_v2 in build.yaml. NO improvement (guess anyway.)
+- 
